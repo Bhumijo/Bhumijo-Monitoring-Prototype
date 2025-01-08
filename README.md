@@ -89,21 +89,19 @@ OR
 
    Example response:
    ```json
-   [
-     {
-        "total_income": 150,
-        "total_income_subscribed": 50,
-        "total_income_anonymous": 100,
-        "total_expense": 500,
-        "total_profit": -350,
-        "total_new_users": 150,
-        "total_new_users_male": 50,
-        "total_new_users_female": 100,
-        "total_new_users_other": 100,
-        "total_usages_male": 100,
-        "total_usages_female": 100
-    }
-   ]
+   {
+      "total_income": 150,
+      "total_income_subscribed": 50,
+      "total_income_anonymous": 100,
+      "total_expense": 500,
+      "total_profit": -350,
+      "total_new_users": 150,
+      "total_new_users_male": 50,
+      "total_new_users_female": 100,
+      "total_new_users_other": 100,
+      "total_usages_male": 100,
+      "total_usages_female": 100
+   }
    ```
 
 2. **Admin Panel:**
